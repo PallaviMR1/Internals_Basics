@@ -1,0 +1,13 @@
+{
+    "search_type": "random",
+    "n_folds": 5,
+    "total_trials": 5,
+    "best_params": {
+        "n_estimators": 100,
+        "min_samples_split": 2,
+        "max_depth": 5
+    },
+    "best_mae": 14.949628301587277,
+    "best_cv_mae": 15.909890482142865,
+    "parent_run_name": "tuning-launchpredict"
+}
