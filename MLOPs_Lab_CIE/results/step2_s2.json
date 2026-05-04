@@ -7,7 +7,7 @@
         "min_samples_split": 2,
         "max_depth": 5
     },
-    "best_mae": 14.949628301587277,
-    "best_cv_mae": 15.909890482142865,
+    "best_mae": 15.855046529299093,
+    "best_cv_mae": 18.455533328785982,
     "parent_run_name": "tuning-launchpredict"
 }
